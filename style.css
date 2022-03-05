@@ -1,0 +1,23 @@
+
+
+body{
+    background-image: url("mars.gif");
+    background-color: center;
+    background-size: cover;
+}
+#myCanvas{
+    margin-top: 30px;
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+h1{
+    color: white !important;
+    font-variant-caps: small-caps;
+}
+h4{
+    color:white !important; 
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
